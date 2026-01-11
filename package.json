@@ -1,0 +1,23 @@
+{
+  "name": "termux_mobile_server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/1WINgFIRE1/Termux_Mobile_Server#readme",
+  "bugs": {
+    "url": "https://github.com/1WINgFIRE1/Termux_Mobile_Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1WINgFIRE1/Termux_Mobile_Server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
